@@ -3,7 +3,7 @@ function validate(){
     var password=document.getElementById("password").value;
     if(username=="123"&& password=="jaimahakal"){
         // alert("login Successfully!!");
-        window.open("html1.html");
+        window.open("index-educational.html");
         return false;
     }
     else{
