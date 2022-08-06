@@ -1,7 +1,7 @@
 function validate(){
     var username=document.getElementById("username").value;
     var password=document.getElementById("password").value;
-    if(username=="DOREMON"&& password=="@Nehal123"){
+    if(username=="DOREMON"&& password=="@nitin_nehal123"){
         // alert("login Successfully!!");
         window.open("index-educational.html");
         return false;
