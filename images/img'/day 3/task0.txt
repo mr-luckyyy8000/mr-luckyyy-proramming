@@ -1,9 +1,0 @@
-<site name>
-<hyperlinked logo "50X50">
-<insert line>
-<heading + italic>
-<insert line>
-<description + bold>
-<insert line>
-<description pre formatter + add a text which redirects on google page>
-<insert image with our ratio>
